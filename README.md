@@ -42,12 +42,14 @@ I was also curious to see if they would be able to decipher ballet attire in the
 Simiarly, with the city picture I chose it detected a specific environment outdoors based on the geogrpahic features in the image. 
 
 ![Image Description](https://i.ibb.co/6wxPd34/dog1.png)
-It was even able to detect it a dog with high confidence, but more specific than that. A retriever!
+
+It was even able to detect it was a dog with high confidence, but more specific than that. A retriever!
 
 ![Image Description](https://i.ibb.co/7Xm61g1/business1.png)
 
 
-confidence of happiness here was very nice because the quality of the photo is high and its visible that they are all smiling. same with attire is simpler to pick out. 
+Confidence of happiness here was very nice because the quality of the photo is high and its visible that they are all smiling. same with attire is simpler to pick out. 
 
 ![Image Description](https://i.ibb.co/CtHPm71/kid1.png)
+
 Accurately predicts anger given certain facial expressions.
