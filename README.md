@@ -1,5 +1,6 @@
 # Individual Project # 3 Distributed-Image-Processing-in-Cloud-Dataproc
 With the integration of Vision API for image recognition
+by Kail Amoakon
 
 Project functionalities include:
   -Creating a managed Cloud Dataproc cluster with Apache Spark pre-installed
