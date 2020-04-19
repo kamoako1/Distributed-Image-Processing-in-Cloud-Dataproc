@@ -1,4 +1,4 @@
-# Distributed-Image-Processing-in-Cloud-Dataproc
+# Individual Project # 3 Distributed-Image-Processing-in-Cloud-Dataproc
 With the integration of Vision API for image recognition
 
 Project functionalities include:
