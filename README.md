@@ -27,3 +27,4 @@ Project functionalities include:
   On the Google Cloud Platform  in the Navigation menu > Storage you can locate your bucket you created. In the out directory, download all images in your bucket. They will download onto your local computer and you can save them anywhere you would like. File name should resemble something like "out_{name of image file}"
   # Eigth Step: Vision API
   On the google Vision API website, you can upload images that were downloaded from your bucket. Once you upload, you can quickly see   results of the image detection! With such sophisticated machine learning algorithms, you can see several different results. 
+![Image description](https://i.ibb.co/8XGv4ZN/ballet-Results1.png)
