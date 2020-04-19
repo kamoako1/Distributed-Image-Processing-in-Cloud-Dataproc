@@ -27,4 +27,5 @@ Project functionalities include:
   On the Google Cloud Platform  in the Navigation menu > Storage you can locate your bucket you created. In the out directory, download all images in your bucket. They will download onto your local computer and you can save them anywhere you would like. File name should resemble something like "out_{name of image file}"
   # Eigth Step: Vision API
   On the google Vision API website, you can upload images that were downloaded from your bucket. Once you upload, you can quickly see   results of the image detection! With such sophisticated machine learning algorithms, you can see several different results. 
-![Image description](https://i.ibb.co/8XGv4ZN/ballet-Results1.png)
+  
+![The first picture I chose was a dance picture. All the dancers looked happy and excited to be in class and the facial detector was great at accurately indentifying that. It detected that sentiment: happiness  was highly likely with 96% confidence. I was also curious to see if they would be able to decipher ballet attire in the image which it most certainly did, so that was fascinating to see. ](https://i.ibb.co/8XGv4ZN/ballet-Results1.png)
