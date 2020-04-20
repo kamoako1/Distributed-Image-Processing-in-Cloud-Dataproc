@@ -31,25 +31,25 @@ Project functionalities include:
   
 ![Image Description](https://i.ibb.co/8XGv4ZN/ballet-Results1.png)
 
-The first picture I chose was a dance picture. All the dancers looked happy and excited to be in class and the facial detector was great at accurately indentifying that. It detected that sentiment: happiness  was highly likely with 96% confidence. 
+The first picture I chose was a dance picture. All the dancers looked happy and excited to be in class and the facial detector was great at accurately indentifying that. It detected that sentiment (happiness)  was highly likely with 96% confidence. 
 
 ![Image Description](https://i.ibb.co/fGsbFKR/balletresults2.png)
 
-I was also curious to see if they would be able to decipher ballet attire in the image which it most certainly did, so that was fascinating to see. 
+I was also curious to see if they would be able to decipher ballet attire in the image which it certainly did with high confidence levels.
 
 ![Image Description](https://i.ibb.co/JR6Tnb7/city1.png)
 ![Image Description](https://i.ibb.co/kBdGxTF/city2.png)
 
-Simiarly, with the city picture I chose it detected a specific environment outdoors based on the geogrpahic features in the image. 
+Simiarly, with the city picture it detected a specific environment outdoors based on the geogrpahic features in the image. It was sophisticated enough to identify urban city features.
 
 ![Image Description](https://i.ibb.co/6wxPd34/dog1.png)
 
-It was even able to detect it was a dog with high confidence, but more specific than that. A retriever!
+With 100% confidence and accuracy, it was able to detect that it was a dog. More specifically, it identified that it was a retriever with considerably high confidence.
 
 ![Image Description](https://i.ibb.co/7Xm61g1/business1.png)
 
 
-Confidence of happiness here was very nice because the quality of the photo is high and its visible that they are all smiling. same with attire is simpler to pick out. 
+Joy was very likely in this image, because the quality of the photo improves the visibility of joy in the image. It was also able to determine the environment of the image since all workers had on business formal attire.
 
 ![Image Description](https://i.ibb.co/CtHPm71/kid1.png)
 
